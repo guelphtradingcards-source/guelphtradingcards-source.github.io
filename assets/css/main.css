@@ -3199,7 +3199,7 @@ input, select, textarea {
 
 					#header nav a[href="#menu"]:before, #header nav a[href="#menu"]:after {
 						background-image: url("guelphtradingcards-source.github.io/assets/css
-/images/banner.jpg");
+/images/logo.jpg");
 						background-position: center;
 						background-repeat: no-repeat;
 						background-size: 24px 32px;
@@ -3953,6 +3953,7 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
 
 
 
