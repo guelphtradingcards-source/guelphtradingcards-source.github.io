@@ -3384,7 +3384,7 @@ input, select, textarea {
 		-ms-align-items: center;
 		align-items: center;
 		background-image: url("guelphtradingcards-source.github.io/assets/css
-/images/banner.jpg");
+/images/banner.png");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3954,6 +3954,7 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
 
 
 
